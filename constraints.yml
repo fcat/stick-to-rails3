@@ -1,0 +1,3 @@
+---
+rails: "~> 3.2.16"
+activesupport: "~> 3.2.16"
