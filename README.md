@@ -10,3 +10,7 @@ To run the test suite:
 To run the legacy auto-update:
 
     $ gemnasium au
+
+To run the new auto-update:
+
+    $ gemnasium au run
