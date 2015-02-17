@@ -1,6 +1,8 @@
 Stick to Rails 3
 ================
 
+It sticks to Rails!
+
 Gemfile having Rails has a dependency + dummy test suite that stick to Rails 3
 
 To run the test suite:
