@@ -5,4 +5,4 @@ Gemfile having Rails has a dependency + dummy test suite that *always* stick to 
 
 To run the test suite:
 
-  $ bundle exec ruby test.rb
+    $ bundle exec ruby test.rb
