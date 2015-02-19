@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails'
+gem 'rails', '~> 3.2'
 gem 'sass-rails'
 gem 'haml-rails'
 gem 'resque'
