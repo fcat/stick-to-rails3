@@ -1,7 +1,7 @@
 Stick to Rails 3
 ================
 
-Gemfile having Rails has a dependency + dummy test suite that *stick* to Rails 3.
+A dummy project that depends on Rails 3.
 
 To run the test suite:
 
